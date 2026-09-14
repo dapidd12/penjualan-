@@ -1,0 +1,6 @@
+{
+  "name": "KasirKu POS",
+  "description": "Aplikasi Kasir (POS) local-first dengan antarmuka Glassmorphism yang berjalan sepenuhnya di browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
